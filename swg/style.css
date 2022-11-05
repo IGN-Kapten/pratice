@@ -1,0 +1,23 @@
+html, body{
+  margin: 0;
+  padding: 0;
+}
+
+.center{
+  text-align: center;
+}
+
+.container {
+  margin-left: 10%;
+}
+
+.d-block{
+  display: block;
+}
+
+#win{
+  width: 100%;
+  height: auto;
+  position: absolute;
+  top: 15%;
+}
